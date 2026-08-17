@@ -1,0 +1,70 @@
+# ==========================
+# Dependencies
+# ==========================
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# ==========================
+# Build Output
+# ==========================
+dist/
+build/
+.vite/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==========================
+# IDE Files
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Uploads
+# ==========================
+server/src/uploads/
+
+# ==========================
+# Coverage & Cache
+# ==========================
+coverage/
+.cache/
+.temp/
+
+# ==========================
+# Runtime
+# ==========================
+*.pid
+
+# ==========================
+# Archives
+# ==========================
+*.zip
+*.tar
+*.tar.gz
+
+# ==========================
+# Personal Documentation
+# ==========================
+Info/
