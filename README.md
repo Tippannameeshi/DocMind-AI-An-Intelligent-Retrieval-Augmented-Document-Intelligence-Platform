@@ -356,9 +356,7 @@ npm run dev
 
 ---
 
-# 👨‍💻 Author
 
-**Ajit Meeshi**
 
 Built using
 
@@ -370,7 +368,3 @@ Built using
 - OpenAI API
 
 ---
-
-# 📄 License
-
-ISC License © 2026
